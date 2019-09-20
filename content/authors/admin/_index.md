@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Data nalyst in Python and SQL
+role: Data analyst in Python and SQL
 
 # Organizations/Affiliations
 organizations:
@@ -18,12 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep learning
+- Ethics of machine learning 
+- Information management
 
 #education:
 #  courses:
