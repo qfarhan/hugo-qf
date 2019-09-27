@@ -64,4 +64,4 @@ email: "farhan.foxtrot@gmail.com"
 #- Visitors
 ---
 
-I am a data enginner by trade who specializes in working with unorganized data from different sources and 
+I am a data enginner by trade who specializes in working with unorganized data from different sources, organize them and communicate the data with other departments.
